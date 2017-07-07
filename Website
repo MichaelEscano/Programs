@@ -1,0 +1,92 @@
+<html>
+<head>
+<title>SONGS ADDICT</title>
+<style>
+input[type=search] {
+    width: 250px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+body{
+	background-color:#154360;
+	margin-left:8em;
+	background-image:url(h.jpg);
+	background-repeat:no-repeat;
+	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+	font-family:Stylus BT;
+}
+h2{
+	font-family:Hobo Std;
+}
+a {
+	text-decoration:none;
+	margin-left:2em;
+}
+table{
+}
+form{
+	margin-left:1em;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+</style>
+</head>
+<body>
+<a href="qq.html"><img src="zxc.png" style="width:1000px;height:200px;"></a>
+<br><a href="ContactUs.html"><img src="y.png" style="width:100px;height:30px;"></a>
+<a href="rateus.html"><img src="n.png" style="width:100px;height:30px;"></a>
+<a href="aboutme.html"><img src="m.png" style="width:100px;height:30px;"></a>
+<a href="login.html"><img src="l.jpg" style="width:108px;height:32px;margin-left:28em;"></a>
+<form action="action_page.php">
+<br><input type="search" name="song search" placeholder="Search Music"></td>
+</form>
+<TABLE BORDER="0" cellpadding="0" CELLSPACING="0">
+<TR>
+<TD WIDTH="500" HEIGHT="50" BACKGROUND="i.png" VALIGN="middle">
+<FONT SIZE="15" COLOR="black">LATEST SONG 2017</FONT>
+</td>
+</tr>
+</table>
+<TABLE BORDER="0" cellpadding="0" CELLSPACING="0">
+<TR>
+<TD WIDTH="1000" HEIGHT="320" BACKGROUND="i.png" VALIGN="top">
+<br><a href="Closer.html">
+<font color="black" font size="5em">1. Closer - The Chainsmoker</font>
+<br><a href="SLS.html">
+<font color="black" font size="5em">2. Secret Love Song -Little Mix Ft. Jason Derulo</font>
+<br><a href="7years.html">
+<font color="black" font size="5em">3. 7 years - Lukas Graham</font>
+<br><a href="Work.html">
+<font color="black" font size="5em">4. Work - Rihanna</font>
+<br><a href="TWYCF.html">
+<font color="black" font size="5em">5. This Is What You Came For - Calvin Harris</font>
+<br><a href="CSTF.html">
+<font color="black" font size="5em">6. Can't Stop the Feeling - Justin Timberlake</font>
+<br><a href="DLMD.html">
+<font color="black" font size="5em">7. Don't Let Me Down - The Chainsmoker</font></li>
+<br><a href="1dance.html">
+<font color="black" font size="5em">8. One Dance -  Drake Featuring Wizkid & Kyla </font>
+<br><a href="NM.html">
+<font color="black" font size="5em">9. Needed Me - Rihanna</font>
+<br><a href="MP.html">
+<font color="black" font size="5em">10. I Took A Pill In Ibiza - Mike Posner</font>
+</TR>
+</TABLE>
+</body>
+</html>
